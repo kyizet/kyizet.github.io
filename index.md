@@ -7,4 +7,5 @@
 - [TicTacToe in Python](https://github.com/kyizet/python-tictactoe)
 - [Typing Tutor in Python with GUI Tkinter](https://github.com/kyizet/typtolator-python)
 
-
+#[Facebook](https://www.facebook.com/zett1kz)
+#[Instagram](https://www.instagram.com)
